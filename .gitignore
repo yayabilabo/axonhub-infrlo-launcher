@@ -1,0 +1,7 @@
+axonhub
+axonhub-test
+.axonhub.download.*
+*.db
+*.db-shm
+*.db-wal
+logs/
